@@ -12,4 +12,8 @@ public class CartPage {
 		
 	}
 	
+	public void sendkeys(){
+	
+	}
+	
 }
