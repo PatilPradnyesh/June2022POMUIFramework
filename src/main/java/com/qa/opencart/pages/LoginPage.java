@@ -21,6 +21,8 @@ public class LoginPage {
 	private By forgotPwdLink = By.linkText("Forgotten Password");
 	private By logo = By.className("img-responsive");
 	private By registerLink = By.linkText("Register");
+	private By regLink = By.linkText("Register");
+	
 	
 	private static final Logger LOG = Logger.getLogger(LoginPage.class);
 	
