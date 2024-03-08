@@ -14,14 +14,14 @@
 	</listeners>
 
 	<test name="Login Test">
-		
+        <parameter name="browser" value="firefox"/> 
 		<classes>
 			<class name="com.qa.opencart.tests.LoginPageTest" />
 		</classes>
 	</test>
 	
 	<test name="Account Page Test">
-		
+		<parameter name="browser" value="firefox"/> 
 		<classes>
 			<class name="com.qa.opencart.tests.AccountsPageTest" />
 		</classes>
